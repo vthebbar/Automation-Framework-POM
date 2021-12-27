@@ -1,0 +1,132 @@
+27122021 14:38:54 : INFO : *****Start of TestLogin_001******
+27122021 14:38:54 : INFO : *****End of TestLogin_001******
+27122021 14:38:54 : INFO : 
+
+27122021 14:38:54 : INFO : ====== WebDriver manager ======
+27122021 14:38:54 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:38:54 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:38:55 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:38:56 : INFO : ****starting test_forgot_password_link_visible()*****
+27122021 14:38:58 : INFO : *****Passed -test_forgot_password_link_visible() ***
+27122021 14:38:58 : INFO : 
+
+27122021 14:38:58 : INFO : ====== WebDriver manager ======
+27122021 14:38:58 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:38:58 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:38:58 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:39:02 : INFO : *** Passed -test_signup_link_visible *** 
+27122021 14:39:02 : INFO : 
+
+27122021 14:39:02 : INFO : ====== WebDriver manager ======
+27122021 14:39:02 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:39:02 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:39:02 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:39:04 : INFO : *** Starting - test_login_page_title ***
+27122021 14:39:06 : INFO : *** Passed - test_login_page_title 
+27122021 14:39:06 : INFO : 
+
+27122021 14:39:06 : INFO : ====== WebDriver manager ======
+27122021 14:39:06 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:39:06 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:39:06 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:39:08 : INFO : *** Starting -test_login 
+27122021 14:39:12 : INFO : ****Passed -test_login *** 
+27122021 14:40:26 : INFO : *****Start of TestLogin_001******
+27122021 14:40:26 : INFO : *****End of TestLogin_001******
+27122021 14:40:26 : INFO : 
+
+27122021 14:40:26 : INFO : ====== WebDriver manager ======
+27122021 14:40:26 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:40:26 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:40:26 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:40:27 : INFO : ****starting test_forgot_password_link_visible()*****
+27122021 14:40:29 : INFO : *****Passed -test_forgot_password_link_visible() ***
+27122021 14:40:29 : INFO : 
+
+27122021 14:40:29 : INFO : ====== WebDriver manager ======
+27122021 14:40:30 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:40:30 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:40:30 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:40:33 : INFO : *** Passed -test_signup_link_visible *** 
+27122021 14:40:33 : INFO : 
+
+27122021 14:40:33 : INFO : ====== WebDriver manager ======
+27122021 14:40:33 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:40:33 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:40:33 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:40:35 : INFO : *** Starting - test_login_page_title ***
+27122021 14:40:37 : INFO : *** Passed - test_login_page_title 
+27122021 14:40:37 : INFO : 
+
+27122021 14:40:37 : INFO : ====== WebDriver manager ======
+27122021 14:40:37 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:40:37 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:40:38 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:40:39 : INFO : *** Starting -test_login 
+27122021 14:40:44 : INFO : *** Failed-test_login ***
+27122021 14:42:32 : INFO : *****Start of TestLogin_001******
+27122021 14:42:32 : INFO : *****End of TestLogin_001******
+27122021 14:42:32 : INFO : 
+
+27122021 14:42:32 : INFO : ====== WebDriver manager ======
+27122021 14:42:32 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:42:32 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:42:32 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:42:34 : INFO : ****starting test_forgot_password_link_visible()*****
+27122021 14:42:36 : INFO : *****Passed -test_forgot_password_link_visible() ***
+27122021 14:42:36 : INFO : 
+
+27122021 14:42:36 : INFO : ====== WebDriver manager ======
+27122021 14:42:36 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:42:36 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:42:36 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:42:40 : INFO : *** Passed -test_signup_link_visible *** 
+27122021 14:42:40 : INFO : 
+
+27122021 14:42:40 : INFO : ====== WebDriver manager ======
+27122021 14:42:40 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:42:40 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:42:40 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:42:42 : INFO : *** Starting - test_login_page_title ***
+27122021 14:42:44 : INFO : *** Passed - test_login_page_title 
+27122021 14:42:44 : INFO : 
+
+27122021 14:42:44 : INFO : ====== WebDriver manager ======
+27122021 14:42:44 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:42:44 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:42:44 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:42:45 : INFO : *** Starting -test_login 
+27122021 14:42:51 : INFO : *** Failed-test_login ***
+27122021 14:44:24 : INFO : *****Start of TestLogin_001******
+27122021 14:44:24 : INFO : *****End of TestLogin_001******
+27122021 14:44:24 : INFO : 
+
+27122021 14:44:24 : INFO : ====== WebDriver manager ======
+27122021 14:44:24 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:44:24 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:44:24 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:44:25 : INFO : ****starting test_forgot_password_link_visible()*****
+27122021 14:44:28 : INFO : *****Passed -test_forgot_password_link_visible() ***
+27122021 14:44:28 : INFO : 
+
+27122021 14:44:28 : INFO : ====== WebDriver manager ======
+27122021 14:44:28 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:44:28 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:44:28 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:44:31 : INFO : *** Passed -test_signup_link_visible *** 
+27122021 14:44:31 : INFO : 
+
+27122021 14:44:31 : INFO : ====== WebDriver manager ======
+27122021 14:44:31 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:44:31 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:44:31 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:44:33 : INFO : *** Starting - test_login_page_title ***
+27122021 14:44:36 : INFO : *** Passed - test_login_page_title 
+27122021 14:44:36 : INFO : 
+
+27122021 14:44:36 : INFO : ====== WebDriver manager ======
+27122021 14:44:36 : INFO : Current google-chrome version is 96.0.4664
+27122021 14:44:36 : INFO : Get LATEST chromedriver version for 96.0.4664 google-chrome
+27122021 14:44:36 : INFO : Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+27122021 14:44:37 : INFO : *** Starting -test_login 
+27122021 14:44:42 : INFO : *** Failed-test_login ***
